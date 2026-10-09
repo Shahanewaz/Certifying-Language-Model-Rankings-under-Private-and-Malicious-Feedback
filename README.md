@@ -49,7 +49,7 @@ experiment_1.py          # Model evaluation and private/poisoned ranking simulat
 experiment_2.py          # Paired certificate efficiency comparison
 experiment_3.py          # Adaptive attack and bound-sensitivity analysis
 experiment_4.py          # Linguistic subgroup analysis
-certificates.py          # Shared core imported by experiment3.py and experiment4.py
+certificates.py          # Shared core imported by experiment_3.py and experiment_4.py
 requirements.txt
 README.md
 ```
