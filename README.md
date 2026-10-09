@@ -52,10 +52,10 @@ Install and start Ollama separately before evaluating models. The Python package
 ## Repository layout
 
 ```text
-experiment.py          # Model evaluation and private/poisoned ranking simulation
-experiment2.py         # Paired certificate efficiency comparison
-experiment3.py         # Adaptive attack and bound-sensitivity analysis
-experiment4.py         # Linguistic subgroup analysis
+experiment_1.py          # Model evaluation and private/poisoned ranking simulation
+experiment_2.py         # Paired certificate efficiency comparison
+experiment_3.py         # Adaptive attack and bound-sensitivity analysis
+experiment_4.py         # Linguistic subgroup analysis
 certificates.py        # Shared core imported by experiment3.py and experiment4.py
 requirements.txt
 README.md
