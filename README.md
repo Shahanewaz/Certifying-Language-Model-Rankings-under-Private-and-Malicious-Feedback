@@ -17,13 +17,6 @@ The repo provides four complementary analyses:
 - [Repository layout](#repository-layout)
 - [Models and datasets](#models-and-datasets)
 - [Usage](#usage)
-- [Smoke test](#smoke-test)
-- [Private and malicious paired evaluation](#private-and-malicious-paired-evaluation)
-- [Certificate efficiency comparison](#certificate-efficiency-comparison)
-- [Adaptive robustness and contamination-bound sensitivity](#adaptive-robustness-and-contamination-bound-sensitivity)
-- [Linguistic subgroup analysis](#linguistic-subgroup-analysis)
-- [Interpreting results](#interpreting-results)
-- [Testing and reproducibility](#testing-and-reproducibility)
 
 ## Installation
 
